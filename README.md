@@ -135,7 +135,7 @@ o	Username: Ryan
 o	Email: ryan@email.com 
 
 6.	Skip down to password:
-7.	
+
 o	Password: 123456 
 
 o	Confirm Password: Check the box to confirm use of weak password.
